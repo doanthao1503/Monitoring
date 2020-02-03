@@ -7,15 +7,20 @@
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
     "@material-ui/pickers": "^3.2.10",
+    "@material-ui/styles": "^4.9.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "date-fns": "^2.0.0-beta.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
     "react": "^16.12.0",
     "react-datetime-picker": "^2.9.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "recharts": "^2.0.0-beta.1"
+    "recharts": "^2.0.0-beta.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
